@@ -3,7 +3,8 @@ new line for push
 new line for pull
 <<<<<<< HEAD
 new line for eclicpe commit and push
-push
+push from eclipse
+
 =======
 checking for pull form eclipse
 >>>>>>> branch 'main' of https://github.com/jainabraham/newrepo.git
